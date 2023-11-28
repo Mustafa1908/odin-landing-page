@@ -117,3 +117,25 @@ html, body {
     border-radius: 30px;
 }
 
+.section-quote {
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    width: 770px;
+}
+
+.quoteAuthor {
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    left: 1080px;
+    bottom: -320px;
+}
