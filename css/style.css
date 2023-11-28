@@ -139,3 +139,54 @@ html, body {
     left: 1080px;
     bottom: -320px;
 }
+
+.call-to-action-container {
+    height: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action-little-box {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1100px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.call-to-action-text {
+    padding-left: 100px;
+}
+
+.call-action-big-text {
+    color: #F9FAF8;
+    font-size: 22px;
+}
+
+.call-action-little-text {
+    display: block;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.call-to-action-button {
+    padding-right: 140px;
+}
+
+.sign-up-call-action {
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    width: 170px;
+    height: 28px;
+    border-radius: 10px;
+    border: 2px solid #E5E7EB;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
