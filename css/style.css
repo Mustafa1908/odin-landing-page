@@ -1,0 +1,119 @@
+html, body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #1F2937;
+    height: 490px;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link {
+    display: flex;
+    gap: 30px;
+    padding-right: 500px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    padding-left: 300px;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-content {
+    padding-left: 300px;
+    padding-top: 40px;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+    width: 310px;
+}
+
+.header-text {
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 400px;
+}
+
+
+.sign-up {
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    width: 130px;
+    height: 28px;
+    border-radius: 50px;
+    border: 1px solid transparent;
+}
+
+.sign-up:hover {
+    cursor: pointer;
+}
+
+.header-picture {
+    display: flex;
+    align-items: center;
+    width: 750px;
+    height: auto;
+    max-height: 300px;
+    padding-right: 350px;
+    padding-top: 50px;
+}
+
+.forest-scenery {
+    width: 750px;
+    height: auto;
+    max-height: 300px;
+}
+
+.random-information {
+    height: 380px;
+}
+
+.random-text {
+    text-align: center;
+}
+
+.random-picture {
+    display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.random-container {
+    max-width: 200px;
+}
+
+.random-subtext {
+    width: 140px;
+    text-align: center;
+}
+
+.random-information-picture {
+    width: 140px;
+    height: 140px;
+    border: 5px solid #3882F6;
+    border-radius: 30px;
+}
+
