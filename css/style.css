@@ -176,6 +176,10 @@ html, body {
     padding-right: 140px;
 }
 
+.sign-up-link {
+    text-decoration: none;
+}
+
 .sign-up-call-action {
     font-size: 18px;
     color: #E5E7EB;
@@ -190,3 +194,16 @@ html, body {
     padding-bottom: 5px;
 }
 
+.footer {
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+
+.footer-text {
+    font-size: 17px;
+    color: #F9FAF8;
+}
