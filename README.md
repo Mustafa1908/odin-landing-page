@@ -9,3 +9,5 @@ Author of the indoor plant picture: Kha Ruxury https://www.pexels.com/@kha-ruxur
 Author of the barn picture: Alex Fu https://www.pexels.com/@alexfu/
 
 Author of the bird picture: Jonathan Cooper https://www.pexels.com/@theshuttervision/
+
+Live preview: https://mustafa1908.github.io/odin-landing-page/
